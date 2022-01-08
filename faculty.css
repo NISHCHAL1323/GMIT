@@ -1,0 +1,23 @@
+H2
+{ 
+    COLOR:#9A0680;
+    BACKGROUND-COLOR:#B5EAEA;
+    PADDING:3PX;
+    border:5X SOLID;
+    BORDER-RADIUS:20PX;
+    BOX-SHADOW:3PX 5PX 3PX
+}
+H4
+{
+  BACKGROUND-COLOR:#F6D7A7;
+  PADDING:2PX;
+  BORDER-RADIUS:10PX;
+  COLOR:RED
+}
+#fintro{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+a:hover{
+  color:#330303;
+  text-decoration:none ;
+}

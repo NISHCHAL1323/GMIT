@@ -1,0 +1,45 @@
+h1{
+    background:#370665;
+    padding: 25px 20px 20px;
+    color:rgb(255, 255, 255);
+    box-align:center;
+    
+    border:7px solid;
+    BOX-SHADOW:10PX 7PX 7PX black;
+    margin: 0px 15px 0px 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+body>section>p{
+    color:rgb(8, 8, 8);
+}
+body{
+    background:#CFFFDC;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+a{
+    color:rgba(42, 190, 74, 0.829);
+    
+}
+nav a{
+    text-decoration: none;
+    color:antiquewhite;
+    padding:15px;
+    text-align:center;
+    float:left;
+   
+    
+}
+nav{
+    background-color: black;
+    padding:7px;
+    overflow: hidden;
+    margin: 0px 15px 0px 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+a:hover{
+    color:royalblue;
+}
+
+a:hover{
+    color:#F90716
+}
